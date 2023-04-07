@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning **C++ & HTML**
 - 🔭 I’m currently studying in University of Technology Malaysia
 - 📫 How to reach me **yingxi0805gmail.com**
+- 😎 Fun fact- previously a bio and chem lover 
+- 😝 A person who is looking foward to explore more about high-tech around the world
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,9 +21,9 @@
 <a href="https://instagram.com/yingxi_zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yingxi_zz" height="30" width="40" /></a>
 </p>
 
+![data-analysis](https://user-images.githubusercontent.com/129196789/230539615-828accac-b662-4161-83b7-22c3cfeef437.gif)
+
 <h3 align="left">Languages and Tools:</h3>
-
-
 
 <p></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowyingxi" alt="lowyingxi" /></a> </p>
