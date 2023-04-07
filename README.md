@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+@@@ Find Me all around the web:
+<p align="left">
+  <a href="https://www.linkedin.com/in/low-ying-xi-075a00260/" target="blank"></a>
