@@ -13,6 +13,7 @@
 - 📫 How to reach me **yingxi0805gmail.com**
 - 😎 Fun fact- previously a bio and chem lover 
 - 😝 A person who is looking foward to explore more about high-tech around the world
+![63639_after](https://user-images.githubusercontent.com/129196789/230540318-14f00207-df11-4768-8b4d-5c337566993c.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
