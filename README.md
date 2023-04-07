@@ -1,7 +1,8 @@
 
-<a href="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
-### Hi there 👋😊😊😊💕💕💕
 
+### Hi there, I'm YingXi👋😊😊😊💕💕💕
+
+![d4tvukbt5mra37cvwklk](https://user-images.githubusercontent.com/129196789/230527975-d1d1501e-60c7-4877-9c22-fc6b002a2c43.gif)
 
 Low Ying Xi is a ✨ Y1 Data Engineering Student✨  
 
