@@ -13,9 +13,9 @@
 - 📫 How to reach me **yingxi0805gmail.com**
 - 😎 Fun fact- previously a bio and chem lover 
 - 😝 A person who is looking foward to explore more about high-tech around the world
-<p img align="center" width="100">
+<p></p>
 ![63639_after](https://user-images.githubusercontent.com/129196789/230540318-14f00207-df11-4768-8b4d-5c337566993c.gif)
-</p>
+<p></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/low ying xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="low ying xi" height="30" width="40" /></a>
