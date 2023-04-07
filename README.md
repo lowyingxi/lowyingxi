@@ -23,6 +23,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lowyingxi&show_icons=true&locale=en&layout=compact" alt="lowyingxi" /></p>
+<p></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowyingxi" alt="lowyingxi" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lowyingxi&show_icons=true&locale=en" alt="lowyingxi" /></p>
 
