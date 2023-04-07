@@ -5,9 +5,8 @@
 ![d4tvukbt5mra37cvwklk](https://user-images.githubusercontent.com/129196789/230538573-84448167-0eab-4b45-953d-33f8af5fbc37.gif)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lowyingxi&label=Profile%20views&color=0e75b6&style=flat" alt="lowyingxi" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowyingxi" alt="lowyingxi" /></a> </p>
 
 - 🌱 I’m currently learning **C++ & HTML**
 - 🔭 I’m currently studying in University of Technology Malaysia
@@ -21,10 +20,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lowyingxi&show_icons=true&locale=en&layout=compact" alt="lowyingxi" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowyingxi" alt="lowyingxi" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lowyingxi&show_icons=true&locale=en" alt="lowyingxi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lowyingxi&" alt="lowyingxi" /></p>
