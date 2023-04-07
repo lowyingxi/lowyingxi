@@ -14,7 +14,7 @@
 - 😎 Fun fact- previously a bio and chem lover 
 - 😝 A person who is looking foward to explore more about high-tech around the world
 <p></p>
-![63639_after](https://user-images.githubusercontent.com/129196789/230540318-14f00207-df11-4768-8b4d-5c337566993c.gif)
+![63639_after](https://user-images.githubusercontent.com/129196789/230540740-8ae5ca99-86fc-4bd6-93f9-da1f75f3b568.gif)
 <p></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
