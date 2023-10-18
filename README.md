@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm YingXi</h1>
-<h3 align="left">A Year 1 Student of Data Engineering at UTM</h3>
+<h3 align="left">A Year 2 Student of Data Engineering at UTM</h3>
 
 
 ![d4tvukbt5mra37cvwklk](https://user-images.githubusercontent.com/129196789/230538573-84448167-0eab-4b45-953d-33f8af5fbc37.gif)
@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lowyingxi&label=Profile%20views&color=0e75b6&style=flat" alt="lowyingxi" /> </p>
 
 
-- 🌱 I’m currently learning **C++ & HTML**
+- 🌱 I’m currently learning **C++ & HTML & PHP **
 - 🔭 I’m currently studying in University of Technology Malaysia
 - 📫 How to reach me **yingxi0805gmail.com**
 - 😎 Fun fact- previously a bio and chem lover 
