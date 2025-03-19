@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lowyingxi&label=Profile%20views&color=0e75b6&style=flat" alt="lowyingxi" /> </p>
 
 
-- 🌱 I’m currently learning **C++ & Java & HTML & PHP **
+- 🌱 I am mastering in **C++ & Java & HTML & PHP & Python **
 - 🔭 I’m currently studying in University of Technology Malaysia
 - 📫 How to reach me **yingxi0805gmail.com**
 - 😝 A person who is looking foward to explore more about high-tech around the world
