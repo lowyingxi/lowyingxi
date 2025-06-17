@@ -73,8 +73,17 @@ A Java-based system for perfume order management and billing.
 Simulated patient scheduling using **Shortest Remaining Time (SRT)** and **Round Robin (RR)** algorithms.  
 🔹 **Key Features**:  
 - Consultation/ICU patient prioritization  
-- Real-world scheduling simulation  
+- Real-world scheduling simulation
+  
+### [Emo Whacker - Stress-Relief & Emotional Intelligence Game](https://github.com/lowyingxi/EmoWhackerGame)
+A C++ game combining *Whack-A-Mole* and *Gold Miner* mechanics to promote mental well-being.  
+🌟 **Key Features**:  
+- Whack negative emoticons / collect positive ones  
+- 30-second score challenges  
+- Teaches emotional intelligence fundamentals  
 
+🔹 **Developed For**:  
+Programming Technique II (Data Engineering)
 
 ![63639_after](https://user-images.githubusercontent.com/129196789/230540835-7a2d7854-ab44-4155-95df-c9c3e165ede8.gif)
 
