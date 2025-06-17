@@ -31,6 +31,18 @@ Optimized scraping and transformation of PG Mall product data using Python (Pand
 🔹 **Libraries Compared**:  
 - Pandas | Polars | Dask  
 
+### [2019 Airline Delays Analysis with Weather & Airport Data](https://github.com/drshahizan/HPDP/blob/main/2425/assignment/A2/bdm/SwiftParse/big_data.md)
+Benchmarked Pandas vs. Dask vs. Polars for large-scale flight delay data processing.  
+🔍 **Comparative Analysis**:  
+1️⃣ **Big Data Handling Strategies**:  
+   - Load optimization (chunking, sampling, dtype optimization)  
+   - Parallel processing with Dask  
+2️⃣ **Library Benchmarking**:  
+   - 🐼 Pandas (traditional)  
+   - 🧵 Dask (distributed)  
+   - ⚡ Polars (Rust-powered)  
+
+📊 **Key Metrics**: Execution time | Memory usage | CPU utilization
 ---
 ## 🌐 Web-Based System Development
 ### [KTDI Event Management System](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/curiousity)
