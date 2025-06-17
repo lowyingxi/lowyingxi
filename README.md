@@ -26,7 +26,7 @@ Data Analytics
 My team and I analyzed the link between midwifery personnel availability and infant mortality rates using Python. We cleaned and processed data, performed analysis and visualization, and applied machine learning to identify patterns.
 
 Application Prototype Development
-🔸 FluencyBot (AI-Powered English Speaking App) Botpress Prototype
+🔸 [FluencyBot (AI-Powered English Speaking App) Botpress Prototype](https://github.com/lowyingxi/FluencyBot-AI-Powered-English-Speaking-App-)
 
 My team developed FluencyBot, an AI-powered app that helps users improve their spoken English by providing real-time feedback on grammar and fluency. We applied AI concepts like knowledge representation, state space search, and intelligent agent design to build a functional prototype.
 
