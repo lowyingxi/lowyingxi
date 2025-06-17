@@ -13,14 +13,40 @@
 - 📫 How to reach me **yingxi0805gmail.com**
 - 😝 A person who is looking foward to explore more about high-tech around the world
 
+📝 Project 📝
+Web-Based System Development
+
+🔸 KTDI Event Management System
+
+My team and I developed the KTDI Event Management System to streamline event planning for the KTDI Student Residential College Committee (JKM), KTDI staff, and UTM Johor students. We went through key phases, from proposal planning to creating system documents (SRS, SDD, STD) and designing a prototype in Figma.
+
+Data Analytics
+🔸 The Impact of Midwifery Personnel on Infant Mortality Rates using Python
+
+My team and I analyzed the link between midwifery personnel availability and infant mortality rates using Python. We cleaned and processed data, performed analysis and visualization, and applied machine learning to identify patterns.
+
+Application Prototype Development
+🔸 FluencyBot (AI-Powered English Speaking App) Botpress Prototype
+
+My team developed FluencyBot, an AI-powered app that helps users improve their spoken English by providing real-time feedback on grammar and fluency. We applied AI concepts like knowledge representation, state space search, and intelligent agent design to build a functional prototype.
+
+
+
+Software Development
+🔸 MyPerfume Ordering and Billing System using Java
+
+The MyPerfume Ordering and Billing System is a Java application that simplifies perfume ordering and billing. We applied OOP principles like inheritance, polymorphism, and exception handling, along with data structures such as vectors and array lists.
+
+🔸 Hospital Patient Management System using Java
+My team developed a Hospital Patient Management System in Java, using Shortest Remaining Time (SRT) and Round Robin (RR) scheduling to manage Consultation and ICU patients. This project gave me hands-on experience with scheduling algorithms, real-world system simulation, and teamwork in problem-solving.
+
+
 ![63639_after](https://user-images.githubusercontent.com/129196789/230540835-7a2d7854-ab44-4155-95df-c9c3e165ede8.gif)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/low-ying-xi-075a00260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="low ying xi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/yingxi.low/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="low ying xi" height="30" width="40" /></a>
-<a href="https://instagram.com/yingxi_zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yingxi_zz" height="30" width="40" /></a>
 </p>
 
 ![data-analysis](https://user-images.githubusercontent.com/129196789/230539615-828accac-b662-4161-83b7-22c3cfeef437.gif)
