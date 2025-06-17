@@ -16,7 +16,7 @@
 📝 Project 📝
 Web-Based System Development
 
-🔸 KTDI Event Management System
+🔸 [KTDI Event Management System](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/curiousity)
 
 My team and I developed the KTDI Event Management System to streamline event planning for the KTDI Student Residential College Committee (JKM), KTDI staff, and UTM Johor students. We went through key phases, from proposal planning to creating system documents (SRS, SDD, STD) and designing a prototype in Figma.
 
