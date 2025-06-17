@@ -14,7 +14,24 @@
 - 😝 A person who is looking foward to explore more about high-tech around the world
 
 # 📝 Projects 📝
+## 🚀 High-Performance Data Processing
+### [Optimizing Web Crawlers for PG Mall](https://github.com/drshahizan/HPDP/tree/main/2425/project/p1/GroupD)
+Optimized scraping and transformation of PG Mall product data using Python (Pandas, Polars, Dask) for large-scale analysis.  
+🔹 **Project Stages**:  
+1. **Web Scraping**:  
+   - Basic vs. multithreaded scraping  
+   - Subcategory-based data collection  
+2. **Product Type Mapping**:  
+   - Keyword-based categorization  
+3. **Data Cleaning**:  
+   - Deduplication, missing value handling, standardization  
+4. **Performance Evaluation**:  
+   - Speed, memory usage, CPU utilization, throughput  
 
+🔹 **Libraries Compared**:  
+- Pandas | Polars | Dask  
+
+---
 ## 🌐 Web-Based System Development
 ### [KTDI Event Management System](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/curiousity)
 My team and I developed the **KTDI Event Management System** to streamline event planning for the KTDI Student Residential College Committee (JKM), KTDI staff, and UTM Johor students.  
