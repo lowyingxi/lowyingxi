@@ -20,8 +20,8 @@ Web-Based System Development
 
 My team and I developed the KTDI Event Management System to streamline event planning for the KTDI Student Residential College Committee (JKM), KTDI staff, and UTM Johor students. We went through key phases, from proposal planning to creating system documents (SRS, SDD, STD) and designing a prototype in Figma.
 
-Data Analytics
-🔸 The Impact of Midwifery Personnel on Infant Mortality Rates using Python
+Data Analytics 
+🔸 [The Impact of Midwifery Personnel on Infant Mortality Rates using Python](https://github.com/lowyingxi/Data-Analytics-Programming)
 
 My team and I analyzed the link between midwifery personnel availability and infant mortality rates using Python. We cleaned and processed data, performed analysis and visualization, and applied machine learning to identify patterns.
 
