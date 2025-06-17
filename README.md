@@ -13,32 +13,50 @@
 - 📫 How to reach me **yingxi0805gmail.com**
 - 😝 A person who is looking foward to explore more about high-tech around the world
 
-📝 Project 📝
-Web-Based System Development
+# 📝 Projects 📝
 
-🔸 [KTDI Event Management System](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/curiousity)
+## 🌐 Web-Based System Development
+### [KTDI Event Management System](https://github.com/drshahizan/software-engineering/tree/main/project/project/sec01/curiousity)
+My team and I developed the **KTDI Event Management System** to streamline event planning for the KTDI Student Residential College Committee (JKM), KTDI staff, and UTM Johor students.  
+🔹 **Key Contributions**:  
+- Proposal planning and requirement gathering  
+- System documentation (SRS, SDD, STD)  
+- Prototype design in Figma  
 
-My team and I developed the KTDI Event Management System to streamline event planning for the KTDI Student Residential College Committee (JKM), KTDI staff, and UTM Johor students. We went through key phases, from proposal planning to creating system documents (SRS, SDD, STD) and designing a prototype in Figma.
+---
 
-Data Analytics 
-🔸 [The Impact of Midwifery Personnel on Infant Mortality Rates using Python](https://github.com/lowyingxi/Data-Analytics-Programming)
+## 📊 Data Analytics
+### [The Impact of Midwifery Personnel on Infant Mortality Rates](https://github.com/lowyingxi/Data-Analytics-Programming)
+Analyzed the correlation between midwifery personnel availability and infant mortality rates using Python.  
+🔹 **Key Tasks**:  
+- Data cleaning and preprocessing  
+- Statistical analysis and visualization (Matplotlib/Seaborn)  
+- Machine learning pattern identification  
 
-My team and I analyzed the link between midwifery personnel availability and infant mortality rates using Python. We cleaned and processed data, performed analysis and visualization, and applied machine learning to identify patterns.
+---
 
-Application Prototype Development
-🔸 [FluencyBot (AI-Powered English Speaking App) Botpress Prototype](https://github.com/lowyingxi/FluencyBot-AI-Powered-English-Speaking-App-)
+## 🤖 Application Prototype Development
+### [FluencyBot: AI-Powered English Speaking App](https://github.com/lowyingxi/FluencyBot-AI-Powered-English-Speaking-App-)
+Developed an AI chatbot to improve spoken English with real-time grammar/fluency feedback.  
+🔹 **AI Concepts Applied**:  
+- Knowledge representation  
+- State-space search  
+- Intelligent agent design  
 
-My team developed FluencyBot, an AI-powered app that helps users improve their spoken English by providing real-time feedback on grammar and fluency. We applied AI concepts like knowledge representation, state space search, and intelligent agent design to build a functional prototype.
+---
 
+## 💻 Software Development
+### MyPerfume Ordering and Billing System (Java)
+A Java-based system for perfume order management and billing.  
+🔹 **Tech Stack**:  
+- OOP (inheritance, polymorphism, exception handling)  
+- Data structures (Vectors, ArrayLists)  
 
-
-Software Development
-🔸 MyPerfume Ordering and Billing System using Java
-
-The MyPerfume Ordering and Billing System is a Java application that simplifies perfume ordering and billing. We applied OOP principles like inheritance, polymorphism, and exception handling, along with data structures such as vectors and array lists.
-
-🔸 Hospital Patient Management System using Java
-My team developed a Hospital Patient Management System in Java, using Shortest Remaining Time (SRT) and Round Robin (RR) scheduling to manage Consultation and ICU patients. This project gave me hands-on experience with scheduling algorithms, real-world system simulation, and teamwork in problem-solving.
+### Hospital Patient Management System (Java)
+Simulated patient scheduling using **Shortest Remaining Time (SRT)** and **Round Robin (RR)** algorithms.  
+🔹 **Key Features**:  
+- Consultation/ICU patient prioritization  
+- Real-world scheduling simulation  
 
 
 ![63639_after](https://user-images.githubusercontent.com/129196789/230540835-7a2d7854-ab44-4155-95df-c9c3e165ede8.gif)
