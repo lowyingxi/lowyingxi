@@ -36,7 +36,8 @@ Benchmarked Pandas vs. Dask vs. Polars for large-scale flight delay data process
 🔍 **Comparative Analysis**:  
 1️⃣ **Big Data Handling Strategies**:  
    - Load optimization (chunking, sampling, dtype optimization)  
-   - Parallel processing with Dask  
+   - Parallel processing with Dask
+  
 2️⃣ **Library Benchmarking**:  
    - 🐼 Pandas (traditional)  
    - 🧵 Dask (distributed)  
