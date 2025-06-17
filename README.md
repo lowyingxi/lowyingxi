@@ -50,7 +50,15 @@ Analyzed the correlation between midwifery personnel availability and infant mor
 - Statistical analysis and visualization (Matplotlib/Seaborn)  
 - Machine learning pattern identification  
 
+### [Country Development & Environmental Health Dashboard](https://github.com/lowyingxi/Country-Development-and-Environmental-Health-Dashboard)
+Interactive dashboard analyzing socio-economic progress vs. environmental impact (CO₂ emissions, climate metrics).  
+🎯 **Objectives**:  
+- Track development trends (GDP, infrastructure, resource use)  
+- Quantify environmental trade-offs of economic growth  
+- Identify sustainable development models  
+
 ---
+
 
 ## 🤖 Application Prototype Development
 ### [FluencyBot: AI-Powered English Speaking App](https://github.com/lowyingxi/FluencyBot-AI-Powered-English-Speaking-App-)
