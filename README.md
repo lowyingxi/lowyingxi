@@ -15,6 +15,27 @@
 
 # 📝 Projects 📝
 ## 🚀 High-Performance Data Processing
+### [Real-Time Sentiment Analysis using Apache Kafka and Spark](https://github.com/drshahizan/HPDP/tree/main/2425/project/p2/GroupD)
+
+Designed and implemented a real-time sentiment analysis pipeline using **Apache Kafka** and **Apache Spark**, with a focus on Grab App Review on Google Play. This project emphasized **streaming architecture**, **big data processing**, and **natural language understanding**.
+
+🔍 **Project Focus**:
+- Real-time collection and analysis of public sentiment on Grab App
+- Implementation of **NLP pipelines** for text preprocessing and sentiment classification
+- Scalable big data architecture for continuous insight generation
+
+⚙️ **Key Technologies**:
+- **Apache Kafka**: Real-time data ingestion and streaming
+- **Apache Spark**: Distributed processing and machine learning integration
+- **Elasticsearch**: Result storage and interactive dashboard visualization
+- **NLP Libraries**: PySpark
+
+🎯 **Skills Gained**:
+- Real-time data engineering
+- Big data architecture design
+- Natural language processing (NLP)
+- Team collaboration and presentation of analytical findings
+
 ### [Optimizing Web Crawlers for PG Mall](https://github.com/drshahizan/HPDP/tree/main/2425/project/p1/GroupD)
 Optimized scraping and transformation of PG Mall product data using Python (Pandas, Polars, Dask) for large-scale analysis.  
 🔹 **Project Stages**:  
