@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm YingXi</h1>
-<h3 align="left">A Year 3 Student of Data Engineering at UTM</h3>
+<h3 align="left">Data Engineering Graduate from UTM</h3>
 
 
 ![d4tvukbt5mra37cvwklk](https://user-images.githubusercontent.com/129196789/230538573-84448167-0eab-4b45-953d-33f8af5fbc37.gif)
